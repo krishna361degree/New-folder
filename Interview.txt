@@ -1,0 +1,9 @@
+1.What is package.json?
+Ans: to store the details of your project. Like which version you are using, what pakages your using.
+
+2. How to create package.json?
+    npm init
+3. What is package.lock.json?
+    It store the details of packages.
+4. node js is single threaded or multithreaded?
+Ans: Node js is single threaded (Most important question)
